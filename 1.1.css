@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: separate;
+    border-spacing: 10px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+td {
+    padding: 0;
+}
+
+.orange {
+    background-color: #FFA500;
+    height: 50px;
+}
+
+.yellow {
+    background-color: #FFFF00;
+    height: 200px;
+}
+
+.blue {
+    background-color: #4169E1;
+    height: 150px;
+}
+
+.red {
+    background-color: #e13512;
+    height: 100px;
+}
